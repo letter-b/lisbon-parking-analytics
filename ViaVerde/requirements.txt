@@ -1,0 +1,11 @@
+pandas
+geopandas
+matplotlib
+seaborn
+requests
+notebook
+jupyterlab
+sqlalchemy
+pymysql
+shapely
+openpyxl
